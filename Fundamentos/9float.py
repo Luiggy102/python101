@@ -29,23 +29,3 @@ print(y)
 y = round(y, 1)
 print(y)
 print(x == y)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
